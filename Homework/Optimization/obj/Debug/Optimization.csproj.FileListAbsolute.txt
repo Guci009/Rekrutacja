@@ -1,0 +1,8 @@
+C:\Users\Glucio\Desktop\Homework\Optimization\bin\Debug\Optimization.exe.config
+C:\Users\Glucio\Desktop\Homework\Optimization\bin\Debug\Optimization.exe
+C:\Users\Glucio\Desktop\Homework\Optimization\bin\Debug\Optimization.pdb
+C:\Users\Glucio\Desktop\Homework\Optimization\obj\Debug\Optimization.csproj.AssemblyReference.cache
+C:\Users\Glucio\Desktop\Homework\Optimization\obj\Debug\Optimization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Glucio\Desktop\Homework\Optimization\obj\Debug\Optimization.csproj.CoreCompileInputs.cache
+C:\Users\Glucio\Desktop\Homework\Optimization\obj\Debug\Optimization.exe
+C:\Users\Glucio\Desktop\Homework\Optimization\obj\Debug\Optimization.pdb
